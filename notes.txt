@@ -1,0 +1,9 @@
+mkdir dir: create directory called "dir"
+cd dir: go to directory called "dir"
+
+git add -A : add all unversioned files to current tree
+git commit -m "commit message; say something descriptive here"
+git push: push commits to remote repository
+
+git status: show files changed/removed
+git log: show commit history
