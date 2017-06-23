@@ -1,20 +1,20 @@
-my_name = 'Willow Ahrens'
-my_age = 17
-my_height = 60
-my_weight = 134
-my_eyes = 'green'
-my_teeth = 'white'
-my_hair = 'blonde'
+name = 'Willow Ahrens'
+age = 17
+height = 60
+weight = 134
+eyes = 'green'
+teeth = 'white'
+hair = 'blonde'
 
-print "let's talk about %s" % my_name
-print "she's %d inches tall" % my_height
-print "she's %d pounds heavy" % my_weight
+print "let's talk about %s" % name
+print "she's %d inches tall" % height
+print "she's %d pounds heavy" % weight
 print "actually that's not too heavy"
-print "she's got %s eyes and %s hair" % (my_eyes, my_hair)
-print "her teeth are usually %s depending on the coffee" % my_teeth
+print "she's got %s eyes and %s hair" % (eyes, hair)
+print "her teeth are usually %s depending on the coffee" % teeth
 
 
-print "if i add %d, %d, and %d I get %d" % (my_age, my_height, my_weight, my_age + my_height + my_weight)
+print "if i add %d, %d, and %d I get %d" % (age, height, weight, age + height + weight)
 
 
 # chap05(master)[ 1 ] > python ex5.py
