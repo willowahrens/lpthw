@@ -19,3 +19,11 @@ end12 = "r"
  
 print end1 + end2 + end3 + end4 + end5 + end6, 
 print end7 + end8 + end9 + end10 + end11 + end12
+
+
+# chap07(master)[ 1 ] > python ex7.py
+# Mary had a lttle lamb
+# Its fleece was white as snow.
+# And everywhere that Mary went.
+# ..........
+# Cheese Burger
