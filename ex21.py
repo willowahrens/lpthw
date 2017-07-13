@@ -34,7 +34,7 @@ print "age: %d, height: %d, weight: %d, iq: %d" % (age, height, weight, iq)
 
 # lpthw(master)[ 3 ] > python ex21.py
 # let's do  math with just functions!
-# ADDING 30 + 5
+# ADDING 30 + 5s
 # SUBTRACTING 78 - 4
 # MULTIPLYING 90 * 2
 # DIVIDING 100 / 2
